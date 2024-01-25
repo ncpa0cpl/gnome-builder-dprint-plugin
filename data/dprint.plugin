@@ -1,0 +1,10 @@
+[Plugin]
+Name=Dprint
+Loader=C
+Module=dprint
+Authors=Szymon Bretner
+Description=Plugin for the DPrint code formatter.
+X-Builder-ABI=@BUILDER_ABI@
+X-Formatter-Languages=js,jsx,typescript,typescript-jsx,css,html
+X-Formatter-Languages-Priority=200
+X-Category=editing
